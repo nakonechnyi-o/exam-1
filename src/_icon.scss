@@ -1,0 +1,37 @@
+.icon {
+    background-color: #333333;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+    
+}
+
+.item-1 {    
+padding: 20px 0px 10px 0px;
+font-size: 48px;
+color: #5474fd;
+}
+.item-2 {        
+padding: 20px 0px 10px 0px;
+font-size: 48px;
+color: #ff6363;
+}
+
+.item-3 {
+padding: 20px 0px 10px 0px;
+font-size: 48px;
+color: #00a2ff;
+}
+.text {
+color: #e8e8e8;
+font-family: Aleo;
+font-size: 24px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+}
+

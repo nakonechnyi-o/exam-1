@@ -1,0 +1,76 @@
+.two {
+    background-image: url(/img/back_3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    position: static;
+    
+
+
+        &__house {
+            position: relative;
+            left: -300px;
+            padding-top: 200px;
+        }
+
+        &__box {
+            padding-left: 50px;
+            width: 540px;
+            height: 371px;
+            background-color: #232323;
+            opacity: 0.9;
+        }
+
+        &__title {
+            padding-top: 50px;
+            color: #e8e8e8;
+            font-family: "Josefin Sans";
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 26px;
+            text-align: left;
+            letter-spacing: 1.5px;
+            line-height: normal;
+        }
+
+        &__subtitle {
+            padding-top: 30px;
+            color: #ffffff;
+            font-family: "Josefin Sans";
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 26px;
+            text-align: left;
+            text-transform: uppercase;
+        }
+
+        &__text {
+            padding: 30px 30px 50px 0px;
+            color: #e8e8e8;
+            font-family: "Josefin Sans";
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+            text-align: left;
+        }
+
+        &__button {
+            width: 100px;
+            height: 13px;
+            color: #ffffff;
+            font-family: Aleo;
+            font-size: 16px;
+            font-weight: 400;
+            font-style: normal;
+            letter-spacing: normal;
+            line-height: 26px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            width: 225px;
+            height: 60px;
+            background-color: #5474fd;
+            border: none;
+        }
+}

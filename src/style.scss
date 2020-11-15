@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+}
+
+@import "header";
+@import "icon";
+@import "one";
+@import "two";
+@import "three";
+@import "four";
+@import "footer";
+
+.wrapper {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+}
+
+button:hover,
+button:focus,
+button:active {
+    transform: scale(1.1);
+}
+
+a:hover, a:focus, a:active {
+    color: orange;
+}
