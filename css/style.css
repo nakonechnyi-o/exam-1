@@ -176,7 +176,7 @@ input.search_input--text {
 
 .one {
   padding: 120px 0px;
-  background-image: url(/img/back_2.jpg);
+  background-image: url(../img/back_2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -229,7 +229,7 @@ input.search_input--text {
 }
 
 .two {
-  background-image: url(/img/back_3.png);
+  background-image: url(../img/back_3.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -298,7 +298,7 @@ input.search_input--text {
 }
 
 .three {
-  background-image: url(./img/back_4.png);
+  background-image: url(../img/back_4.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -367,7 +367,7 @@ input.search_input--text {
 }
 
 .four {
-  background-image: url(/img/back_5.jpg);
+  background-image: url(../img/back_5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
