@@ -298,7 +298,7 @@ input.search_input--text {
 }
 
 .three {
-  background-image: url(/img/back_4.png);
+  background-image: url(./img/back_4.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
